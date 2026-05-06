@@ -6,7 +6,7 @@
 
 
 
-\---
+
 
 
 
@@ -22,7 +22,7 @@ Built as part of my learning journey in \*\*Business Intelligence and Data Visua
 
 
 
-\---
+
 
 
 
@@ -48,7 +48,7 @@ Built as part of my learning journey in \*\*Business Intelligence and Data Visua
 
 
 
-\---
+
 
 
 
@@ -78,7 +78,7 @@ Built as part of my learning journey in \*\*Business Intelligence and Data Visua
 
 
 
-\---
+
 
 
 
@@ -102,7 +102,7 @@ Built as part of my learning journey in \*\*Business Intelligence and Data Visua
 
 
 
-\---
+
 
 
 
@@ -124,7 +124,7 @@ Built as part of my learning journey in \*\*Business Intelligence and Data Visua
 
 
 
-\---
+
 
 
 
@@ -150,7 +150,6 @@ POWER\_BI\_PROJECT\_1.pbix
 
 └── Finance                 # Revenue \& financial analysis
 
-```
 
 
 
@@ -176,7 +175,7 @@ POWER\_BI\_PROJECT\_1.pbix
 
 
 
-\---
+
 
 
 
